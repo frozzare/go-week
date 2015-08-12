@@ -1,9 +1,10 @@
 package week
 
 import (
-	"github.com/bmizerany/assert"
-	"github.com/frozzare/go-is-type"
 	"testing"
+
+	"github.com/frozzare/go-assert"
+	"github.com/frozzare/go-is-type"
 )
 
 func TestWeek(t *testing.T) {
